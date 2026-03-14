@@ -1,0 +1,8 @@
+{
+  "agent_name": "olaitantm",
+  "display_name": "Binance ClawAdvisor AI",
+  "inference_type": "openrouter",
+  "llm_model": "openai/gpt-4.1",
+  "poll_interval": 45,
+  "bot_role": "ANSWERER"
+}
