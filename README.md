@@ -73,3 +73,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/olaitantm/binance-clawadvisor-ai.git
 cd binance-clawadvisor-ai
+pip install -r requirements.txt
