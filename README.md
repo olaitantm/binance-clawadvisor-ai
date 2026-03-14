@@ -58,12 +58,12 @@ VPS deployment
 
 # 📸 Demo
 
-Telegram Bot Demo
+Telegram Bot Demo:  
+https://t.me/olaitantmbot
 
-(Insert your Telegram bot link here)
+Example interaction with Binance ClawAdvisor:
 
-Screenshots of the working assistant are available in the `screenshots` folder.
-
+![Binance ClawAdvisor Telegram Demo](telegram-demo.jpg)
 ---
 
 # 🔧 Installation
